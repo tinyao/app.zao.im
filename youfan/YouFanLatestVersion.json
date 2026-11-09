@@ -1,6 +1,0 @@
-{
-    "versionCode": 22,
-    "versionName": "1.1.7",
-    "url": "https://imzaozao.oss-cn-hangzhou.aliyuncs.com/youfan-latest.apk",
-    "changelog": "- 修复 图片上传失败率高的问题\n- 支持 回复消息中的全部用户"
-}
